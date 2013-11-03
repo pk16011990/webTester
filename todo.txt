@@ -1,0 +1,2 @@
+moznost ulozti si nalezene url do souboru a pak je nacit misto noveho hledani, na rozhodnuti uzivatele
+Moznost vypisovat vystup bud do konzole nebo do souboru
